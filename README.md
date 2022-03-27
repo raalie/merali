@@ -1,7 +1,5 @@
 # alist-railway
 Railway for Alist
-### Demo
-https://alist-railway.up.railway.app/
 
 ### Usage
 - Fork this repo
